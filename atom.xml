@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xzquick</title>
+  
+  <subtitle>xzquick</subtitle>
+  <link href="https://wsxzq.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://wsxzq.github.io/"/>
+  <updated>2024-01-15T14:09:53.000Z</updated>
+  <id>https://wsxzq.github.io/</id>
+  
+  <author>
+    <name>wsxzq</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>原神</title>
+    <link href="https://wsxzq.github.io/2024/01/15/yuan-shen/"/>
+    <id>https://wsxzq.github.io/2024/01/15/yuan-shen/</id>
+    <published>2024-01-15T20:29:00.000Z</published>
+    <updated>2024-01-15T14:09:53.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;甘雨&lt;br&gt;凌华1111&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="游戏" scheme="https://wsxzq.github.io/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="二次元" scheme="https://wsxzq.github.io/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World1</title>
+    <link href="https://wsxzq.github.io/2024/01/12/helloworld/"/>
+    <id>https://wsxzq.github.io/2024/01/12/helloworld/</id>
+    <published>2024-01-12T22:25:00.000Z</published>
+    <updated>2024-01-15T14:09:53.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot; title=&quot;test&quot;&gt;&lt;/a&gt;test&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;this is a</summary>
+        
+      
+    
+    
+    
+    <category term="test" scheme="https://wsxzq.github.io/categories/test/"/>
+    
+    
+    <category term="hello" scheme="https://wsxzq.github.io/tags/hello/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PostgreSQL基础知识整理</title>
+    <link href="https://wsxzq.github.io/2018/09/25/shu-ju-ku/postgresql-ji-chu-zhi-shi-zheng-li/"/>
+    <id>https://wsxzq.github.io/2018/09/25/shu-ju-ku/postgresql-ji-chu-zhi-shi-zheng-li/</id>
+    <published>2018-09-25T00:33:00.000Z</published>
+    <updated>2024-01-15T14:09:53.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;数据库操作DML&quot;&gt;&lt;a href=&quot;#数据库操作DML&quot; class=&quot;headerlink&quot; title=&quot;数据库操作DML&quot;&gt;&lt;/a&gt;数据库操作DML&lt;/h2&gt;&lt;h3 id=&quot;CREATE-TABLE&quot;&gt;&lt;a href=&quot;#CREATE-TABLE&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="数据库" scheme="https://wsxzq.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="PostgreSQL" scheme="https://wsxzq.github.io/tags/PostgreSQL/"/>
+    
+    <category term="数据库" scheme="https://wsxzq.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wsxzq.github.io/2018/09/12/hello-world/"/>
+    <id>https://wsxzq.github.io/2018/09/12/hello-world/</id>
+    <published>2018-09-12T22:25:00.000Z</published>
+    <updated>2024-01-15T14:09:53.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="前端" scheme="https://wsxzq.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+    <category term="Hexo" scheme="https://wsxzq.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+</feed>
